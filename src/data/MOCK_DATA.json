@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Escoba",
+        "price": 4952.0,
+        "description": "Toda escoba nueva barre bien",
+        "img": "https://static.vecteezy.com/system/resources/thumbnails/001/271/170/small/set-of-three-brooms.jpg",
+        "category": "limpieza",
+        "stock": 1
+    },
+    {
+        "id": 2,
+        "name": "212",
+        "price": 7525.33,
+        "description": "Huele a finas hierbas todo el dia",
+        "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41KFgA5XjAL._QL92_SH45_SS200_.jpg",
+        "category": "perfumeria",
+        "stock": 32
+    },
+    {
+        "id": 3,
+        "name": "Ojo de bife",
+        "price": 6784.56,
+        "description": "Carne de burro",
+        "img": "https://www.cordiez.com.ar/arquivos/ids/176368-200-200/Bife-De-Chorizo-Especial-X-Kg-1-5553.jpg?v=638043177879400000",
+        "category": "carniceria",
+        "stock": 9
+    },
+    {
+        "id": 4,
+        "name": "Pan",
+        "price": 1167.87,
+        "description": "Pan fresco envasado",
+        "img": "https://www.union.pe/wp-content/uploads/2022/12/Mesa-de-trabajo-42-200x200.png",
+        "category": "panaderia",
+        "stock": 27
+    },
+    {
+        "id": 5,
+        "name": "Trapo de piso",
+        "price": 3252.49,
+        "description": "Tu piso te lo va a agradecer",
+        "img": "https://www.cordiez.com.ar/arquivos/ids/160863-200-200/Trapo-Ostrich-Para-Piso-Gris-1-Un-1-1377.jpg?v=637450404745430000",
+        "category": "limpieza",
+        "stock": 42
+    },
+    {
+        "id": 6,
+        "name": "Tomaco",
+        "price": 12543.92,
+        "description": "La fusion perfecta entre el tomate y el cafe",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqPdz7wZTklkJ5hoBt1Jw5Bes7HWLnehdAXA&usqp=CAU",
+        "category": "verduleria",
+        "stock": 34
+    }
+]
