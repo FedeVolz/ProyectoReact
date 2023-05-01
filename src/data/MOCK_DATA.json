@@ -1,56 +1,137 @@
 [
     {
         "id": 1,
-        "name": "Escoba",
-        "price": 4952.0,
-        "description": "Toda escoba nueva barre bien",
-        "img": "https://static.vecteezy.com/system/resources/thumbnails/001/271/170/small/set-of-three-brooms.jpg",
-        "category": "limpieza",
-        "stock": 1
+        "name": "Vela Ibiza",
+        "price": 2500,
+        "description": "Disfruta del aroma relajante de la verbena con esta elegante vela blanca mate inspirada en la icónica isla de Ibiza, perfecta para crear un ambiente de paz y tranquilidad en cualquier espacio",
+        "img": "../../publicAssets/IMG IBIZA.jpg",
+        "category": "velas",
+        "stock": 13
     },
     {
         "id": 2,
-        "name": "212",
-        "price": 7525.33,
-        "description": "Huele a finas hierbas todo el dia",
-        "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41KFgA5XjAL._QL92_SH45_SS200_.jpg",
-        "category": "perfumeria",
-        "stock": 32
+        "name": "Vela Mallorca",
+        "price": 2800,
+        "description": "La vela Mallorca es una opción de decoración clásica, con un cuerpo de vidrio transparente que deja ver su cera blanca. Su elegancia atemporal se adapta perfectamente a cualquier estilo decorativo.",
+        "img": "../../publicAssets/IMG MALLORCA.jpg",
+        "category": "velas",
+        "stock": 15
     },
     {
         "id": 3,
-        "name": "Ojo de bife",
-        "price": 6784.56,
-        "description": "Carne de burro",
-        "img": "https://www.cordiez.com.ar/arquivos/ids/176368-200-200/Bife-De-Chorizo-Especial-X-Kg-1-5553.jpg?v=638043177879400000",
-        "category": "carniceria",
+        "name": "Vela Marbella",
+        "price": 3350,
+        "description": "La vela Marbella es una elección elegante y con estilo, con un diseño reflectante en plata que añade un toque de sofisticación a cualquier ambiente. Perfecta para una cena especial o para dar un toque chic a cualquier habitación.",
+        "img": "../../publicAssets/IMG MARBELLA.jpg",
+        "category": "velas",
         "stock": 9
     },
     {
         "id": 4,
-        "name": "Pan",
-        "price": 1167.87,
-        "description": "Pan fresco envasado",
-        "img": "https://www.union.pe/wp-content/uploads/2022/12/Mesa-de-trabajo-42-200x200.png",
-        "category": "panaderia",
+        "name": "Difusor Toronto",
+        "price": 2250,
+        "description": "Si buscas un difusor de aceites esenciales que sea tanto funcional como decorativo, el difusor Toronto es una excelente opción. Su forma redonda de vidrio le da un aspecto elegante y sofisticado, mientras que los palillos de bambú añaden un toque de calidez y naturalidad.",
+        "img": "../../publicAssets/IMG TORONTO.jpg",
+        "category": "difusores",
         "stock": 27
     },
     {
         "id": 5,
-        "name": "Trapo de piso",
-        "price": 3252.49,
-        "description": "Tu piso te lo va a agradecer",
-        "img": "https://www.cordiez.com.ar/arquivos/ids/160863-200-200/Trapo-Ostrich-Para-Piso-Gris-1-Un-1-1377.jpg?v=637450404745430000",
-        "category": "limpieza",
+        "name": "Difusor bogotá",
+        "price": 1500,
+        "description": "El difusor ambiental Bogotá de aroma a coco es una excelente opción para aquellos que buscan un aroma fresco y tropical para ambientar cualquier espacio. Con su envase reutilizable de 250 cc, contribuye al cuidado del medio ambiente al reducir el consumo de productos desechables.",
+        "img": "../../publicAssets/Difusor Bogotá.JPG",
+        "category": "difusores",
         "stock": 42
     },
     {
         "id": 6,
-        "name": "Tomaco",
-        "price": 12543.92,
-        "description": "La fusion perfecta entre el tomate y el cafe",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqPdz7wZTklkJ5hoBt1Jw5Bes7HWLnehdAXA&usqp=CAU",
-        "category": "verduleria",
+        "name": "Espejo Berlín",
+        "price": 9300,
+        "description": "Con su diseño elegante y gran tamaño, el Espejo Berlin es una excelente opción para aquellos que buscan agregar un elemento de estilo a su decoración. Su marco sólido y resistente lo hacen una pieza duradera y de alta calidad.",
+        "img": "../../publicAssets/Espejo Berlin.JPG",
+        "category": "espejos",
         "stock": 34
+    },
+    {
+        "id": 7,
+        "name": "Espejo Oslo",
+        "price": 9800,
+        "description": "El Espejo Oslo es un espejo mediano con un diseño innovador y elegante. Su forma peculiar y marco delgado agregan un toque de originalidad a cualquier espacio, mientras que su acabado de alta calidad ofrece una imagen clara y nítida para una funcionalidad óptima.",
+        "img": "../../publicAssets/Espejo Oslo.JPG",
+        "category": "espejos",
+        "stock": 13
+    },
+    {
+        "id": 8,
+        "name": "Espejo Tokio",
+        "price": 10300,
+        "description": "El espejo Tokio es perfecto para aquellos que buscan una pieza de decoración sencilla y elegante. Su diseño moderno y minimalista se integra fácilmente en cualquier ambiente, añadiendo un toque de estilo sofisticado.",
+        "img": "../../publicAssets/Espejo Tokio.JPG",
+        "category": "espejos",
+        "stock": 15
+    },
+    {
+        "id": 9,
+        "name": "Maceta Viena",
+        "price": 3350,
+        "description": "La maceta Viena es un elegante accesorio para interiores y exteriores, confeccionada en un tejido de ratán que aporta una textura natural y orgánica. Su gama de colores neutros la hace perfecta para combinar con cualquier estilo decorativo.",
+        "img": "../../publicAssets/Maceta Viena.JPG",
+        "category": "macetas",
+        "stock": 9
+    },
+    {
+        "id": 10,
+        "name": "Maceta Yeda",
+        "price": 2250,
+        "description": "Fusionando el blanco y la madera en un estilo moderno y minimalista, la maceta Yena es la elección perfecta para embellecer tus plantas y crear un ambiente acogedor.",
+        "img": "../../publicAssets/Maceta Yeda.JPG",
+        "category": "macetas",
+        "stock": 27
+    },
+    {
+        "id": 11,
+        "name": "Manta Nápoles",
+        "price": 3550,
+        "description": "Si estás buscando una manta suave y ligera para usar en cualquier época del año, la manta Nápoles es la opción ideal. Con su diseño en relieve y sus tres tonos neutros, esta manta se adaptará fácilmente a la decoración de tu hogar.",
+        "img": "../../publicAssets/Manta Nápoles.JPG",
+        "category": "otros",
+        "stock": 42
+    },
+    {
+        "id": 12,
+        "name": "Alfombra Busan",
+        "price": 4500,
+        "description": " La alfombra Busan en color camel y composición de yute es la elección perfecta para añadir textura y calidez a un espacio grande. Su diseño en tonos cálidos y naturales te permitirá crear una atmósfera acogedora y relajante en tu hogar.",
+        "img": "../../publicAssets/Alfombra Busan.JPG",
+        "category": "alfombras",
+        "stock": 34
+    },
+    {
+        "id": 13,
+        "name": "Alfombra Mumbai",
+        "price": 4700,
+        "description": "Con su tono cálido y suave, la alfombra Mumbai en color camel y tejido de yute ofrece una bienvenida acogedora y confortable a tus invitados en la entrada de tu casa.",
+        "img": "../../publicAssets/Alfombra Mumbai.JPG",
+        "category": "alfombras",
+        "stock": 23
+    },
+    {
+        "id": 14,
+        "name": "Almohadon Valencia",
+        "price": 2350,
+        "description": "El Almohadon Valencia en tonos crudo y beige es la elección perfecta para aquellos que buscan una decoración neutral y elegante, con sus flecos añadiendo un toque de estilo bohemio a cualquier espacio.",
+        "img": "../../publicAssets/Almohadon Valencia.JPG",
+        "category": "almohadones",
+        "stock": 2
+    },
+    {
+        "id": 15,
+        "name": "Almohadon Denver",
+        "price": 1950,
+        "description": "El amohadón Denver se adapta a cualquier estilo de decoración gracias a su color crudo. Su trenzado en ambos lados agrega una dimensión extra de textura, creando un ambiente acogedor y cálido.",
+        "img": "../../publicAssets/Almohadon Denver.JPG",
+        "category": "almohadones",
+        "stock": 7
     }
 ]
