@@ -28,19 +28,19 @@ const LoginScreen = () => {
         <div className="login-container">
             <div className="login">
                 <h2>Inicio de sesión</h2>
-                <hr/>
+                <hr />
 
                 <form onSubmit={handleSubmit}>
-                    <input 
+                    <input
                         onChange={handleChange}
                         name="email"
                         value={values.email}
                         type={'email'}
-                        className="form-control my-2"
+                        className="form-control"
                         placeholder='Tu email'
                     />
 
-                    <input 
+                    <input
                         name="password"
                         value={values.password}
                         onChange={handleChange}
@@ -48,11 +48,14 @@ const LoginScreen = () => {
                         className="form-control my-2"
                         placeholder='Contraseña'
                     />
-                    <button className='btn btn-dark' type='submit'>Ingresar</button>
-                    <button className='btn btn-primary ms-3' type='submit'><Link to={"/register"} className='register'>Registrarme</Link></button>
+                    <div className='d-flex justify-content-center '>
+                        <button className='btn btn-dark' type='submit'>Ingresar</button>
+                        <button className='btn btn-primary ms-2' type='submit'><Link to={"/register"} className='register'>Registrarme</Link></button>
+                    </div>
                 </form>
-                    <button className='btn btn-outline-dark mt-3' onClick={googleLogin}>Ingresar con google</button>
-
+                <div className='d-flex justify-content-center '>
+                    <button className='btn btn-outline-dark mt-2' onClick={googleLogin}>Ingresar con Google</button>
+                </div>
             </div>
         </div>
     )

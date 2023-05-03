@@ -27,10 +27,10 @@ const RegisterScreen = () => {
         <div className="login-container">
             <div className="login">
                 <h2>Registrarme</h2>
-                <hr/>
+                <hr />
 
                 <form onSubmit={handleSubmit}>
-                    <input 
+                    <input
                         onChange={handleChange}
                         name="email"
                         value={values.email}
@@ -39,7 +39,7 @@ const RegisterScreen = () => {
                         placeholder='Tu email'
                     />
 
-                    <input 
+                    <input
                         name="password"
                         value={values.password}
                         onChange={handleChange}
@@ -47,9 +47,10 @@ const RegisterScreen = () => {
                         className="form-control my-2"
                         placeholder='Contraseña'
                     />
-
-                    <button className='btn btn-dark' type='submit'>Registrarme</button>
-                    <button className='btn btn-primary ms-3' type='submit'><Link to={"/login"} className='register'>Ya estoy registrado</Link></button>
+                    <div className='d-flex justify-content-center '>
+                        <button className='btn btn-dark' type='submit'>Registrarme</button>
+                        <button className='btn btn-primary ms-3' type='submit'><Link to={"/login"} className='register'>Ya estoy registrado</Link></button>
+                    </div>
                 </form>
             </div>
         </div>

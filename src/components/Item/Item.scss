@@ -1,14 +1,17 @@
-
-
-.anItem{
+.anItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     border-color: black;
-    border-style:double;
+    border-style: double;
     border-radius: 2.5%;
     border-width: 2px;
-    margin:4%;
-    padding: 5px;
-    height: 80%;
-    img{
-        width: 250px;
+    margin: 4%;
+    padding: 10px;
+    height: 540px;
+
+    img {
+        width: 200px;
     }
 }
