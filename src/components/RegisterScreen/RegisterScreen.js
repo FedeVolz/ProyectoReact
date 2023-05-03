@@ -49,7 +49,7 @@ const RegisterScreen = () => {
                     />
                     <div className='d-flex justify-content-center '>
                         <button className='btn btn-dark' type='submit'>Registrarme</button>
-                        <button className='btn btn-primary ms-3' type='submit'><Link to={"/login"} className='register'>Ya estoy registrado</Link></button>
+                        <button className='btn btn-primary ms-3' type='submit'><Link to={"/login"} className='register text-white'>Ya estoy registrado</Link></button>
                     </div>
                 </form>
             </div>

@@ -50,7 +50,7 @@ const LoginScreen = () => {
                     />
                     <div className='d-flex justify-content-center '>
                         <button className='btn btn-dark' type='submit'>Ingresar</button>
-                        <button className='btn btn-primary ms-2' type='submit'><Link to={"/register"} className='register'>Registrarme</Link></button>
+                        <button className='btn btn-primary  ms-2' type='submit'><Link to={"/register"} className='register text-white'>Registrarme</Link></button>
                     </div>
                 </form>
                 <div className='d-flex justify-content-center '>
